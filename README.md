@@ -1,0 +1,2 @@
+# IKEA-Customer-Retention-Analytics-End-to-End-Data-Analytics-Project
+End-to-end IKEA Customer Retention Analytics project using MySQL and Power BI. Includes CLV modeling, churn analysis, repeat purchase segmentation, promotion impact evaluation, income group revenue analysis, and cohort retention tracking. Designed to generate actionable insights for improving customer retention and business strategy.
