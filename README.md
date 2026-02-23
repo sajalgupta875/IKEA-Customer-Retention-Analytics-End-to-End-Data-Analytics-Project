@@ -22,3 +22,44 @@ Promotions increase transaction value but do not substantially reduce churn.
 A segment of high-value customers shows inactivity risk, indicating opportunity for targeted retention campaigns.
 
 This project demonstrates practical skills in data cleaning, SQL analytics, window functions, KPI modeling, business interpretation, and executive-level dashboard communication. It reflects a real-world data analytics workflow from raw data to strategic insight generation
+
+🔎 Business Insights:
+1. Revenue Concentration-
+The top 25% of customers (CLV-based segmentation) contribute a disproportionately high share of total revenue. Customer value distribution is highly skewed.
+
+2. Regional Churn Variance-
+Certain regions exhibit significantly higher churn rates compared to others, indicating localized service, pricing, or competition issues.
+
+3. High-Value Customers at Risk-
+A segment of high-CLV customers shows inactivity beyond 90 days, representing a direct revenue risk.
+
+4. Promotion Impact-
+Promotions increase average transaction value but do not significantly reduce churn. Discount-driven sales may not translate into long-term loyalty.
+
+5. Repeat Purchase Distribution-
+A large portion of customers fall into low purchase-frequency tiers, while a smaller high-frequency segment drives repeat revenue.
+
+6. Income Group Revenue Behavior-
+Higher-income groups generate greater revenue per customer, but mid-income segments represent a large volume opportunity.
+
+7. Cohort Retention Trend-
+Customer retention declines sharply after initial purchase months, highlighting early lifecycle drop-off.
+
+🎯 Strategic Recommendations:
+1. Prioritize High-CLV Retention
+Implement targeted loyalty rewards and personalized communication for top quartile customers to prevent churn.
+
+2. Early Lifecycle Engagement-
+Improve onboarding and first 60-day engagement strategies to reduce early drop-offs observed in cohort analysis.
+
+3. Regional Strategy Optimization-
+Conduct region-specific diagnostics and localized marketing campaigns in high-churn markets.
+
+4. Smart Promotion Targeting-
+Shift from blanket promotions to data-driven targeted offers aimed at at-risk and mid-tier customers.
+
+5. Upsell Mid-Tier Customers-
+Focus on converting mid-frequency buyers into high-tier customers via cross-selling and loyalty incentives.
+
+6. Monitor High-Value Inactivity-
+Deploy automated alerts for high-CLV customers inactive beyond 60–90 days.
